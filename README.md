@@ -1,2 +1,20 @@
-# climate-through-time
-Interactive climate change visualization using Python and Plotly.
+# Climate Through Time
+
+An interactive data visualization showing how global temperatures have changed over time relative to the pre-industrial period (1850–1900).
+
+## Features
+
+- Calculates decadal temperature anomalies
+- Uses Berkeley Earth temperature data
+- Interactive animated world map
+- Built with Python, Pandas and Plotly
+
+## Tools
+
+- Python
+- Pandas
+- Plotly Express
+
+## Dataset
+
+Berkeley Earth – Global Land Temperatures by Country
