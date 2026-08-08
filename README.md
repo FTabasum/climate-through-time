@@ -7,7 +7,7 @@ An interactive data visualization showing how global temperatures have changed o
 - Calculates decadal temperature anomalies
 - Uses Berkeley Earth temperature data
 - Interactive animated world map
-- Built with Python, Pandas and Plotly
+- Built with Python, Pandas, and Plotly
 
 ## Tools
 
@@ -18,3 +18,6 @@ An interactive data visualization showing how global temperatures have changed o
 ## Dataset
 
 Berkeley Earth – Global Land Temperatures by Country
+
+## HTML
+<video src="global_temperature_change_video.mp4" controls width="800"></video>
