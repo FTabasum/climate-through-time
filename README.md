@@ -20,4 +20,4 @@ An interactive data visualization showing how global temperatures have changed o
 Berkeley Earth – Global Land Temperatures by Country
 
 ## HTML
-<video src="global_temperature_change_video.mp4" controls width="800"></video>
+<video src="global_temperature_change_video.mp4" controls width="800"></video> 
