@@ -20,7 +20,8 @@ An interactive data visualization showing how global temperatures have changed o
 Berkeley Earth – Global Land Temperatures by Country
 
 ## Demo
-[▶ Watch the project animation](global_temperature_change_video.mp4)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/eacb8804-24a9-4879-a607-b155219e27b7" />
+
 
 ## Key Observation
 The animation shows a gradual shift from cooler and near-baseline conditions in the earlier decades towards increasingly positive temperature anomalies in the later decades. The warming becomes particularly prominent from the mid-20th century onwards.
